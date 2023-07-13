@@ -1,9 +1,5 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
 
-* {
-  border: 1px dashed red;
-}
-
 p {
   font-size: 2rem;
 }
